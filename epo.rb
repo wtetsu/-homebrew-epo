@@ -1,8 +1,8 @@
 class Epo < Formula
   desc "Handy epoch converter"
   homepage "https://github.com/wtetsu/epo"
-  url "https://github.com/wtetsu/epo/releases/download/v0.0.4/epo_macos_amd_v0.0.4.zip"
-  sha256 "e2aac7afaadf1a398fdd1af37c74e24658c3e75577399dece48eacde05285ffa"
+  url "https://github.com/wtetsu/epo/releases/download/v1.0.0/epo_macos_amd_v1.0.0.zip"
+  sha256 "eff39bef9d2428b4a32dd8461ce9dfa2317137804e4d50980736a724c6ea40f1"
   license "MIT"
 
   def install
